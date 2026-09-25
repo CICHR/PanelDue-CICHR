@@ -1,0 +1,30 @@
+# Local CMake configuration
+env.cmake
+
+# Build trees
+/build/
+/build-*/
+/output/
+
+# Downloaded dependencies
+/lib/base64/
+/lib/librrf/
+/lib/qoi/
+
+# Compiler output
+*.elf
+*.map
+*.o
+*.obj
+*.hex
+*.bin
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+!SplashScreens/*.bin

@@ -1,0 +1,5 @@
+PanelDue CICHR v1.0.0
+
+This software contains source derived from Duet3D PanelDueFirmware and bundled third-party components. Copyright and license notices for those components remain in their respective source files.
+
+Project source outside src/ASF is distributed under the GNU General Public License version 3. Sources under src/ASF retain their Microchip/Atmel license terms. See LICENSE and the headers in the relevant source files.
